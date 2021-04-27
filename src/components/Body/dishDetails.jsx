@@ -10,11 +10,9 @@ const DishDetails=(props)=>{
                 <CardBody className="text-left">
                   <CardTitle>{props.dish.name}</CardTitle>
                   <CardText>{props.dish.description}</CardText>
-                  <CardText>
-                    <p>Category : {props.dish.category} </p> 
-                    <p>Lable : {props.dish.label}</p> 
-                   <p>Price : {props.dish.price} Taka</p>
-                </CardText>
+                  <CardText> Category : {props.dish.category} </CardText> 
+                    <CardText>Lable : {props.dish.label}</CardText> 
+                    <CardText>Price : {props.dish.price} Taka</CardText>
                 <hr/>
                 <LoadComments comment={props.dish.comments}/>
                 </CardBody>
