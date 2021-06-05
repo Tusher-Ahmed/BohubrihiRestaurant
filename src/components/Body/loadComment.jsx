@@ -1,6 +1,7 @@
 import React from "react";
-import Dateformat from "dateformat";
 import Loading from "./Loading";
+import Dateformat from "dateformat";
+
 const LoadComments = (props) => {
   if (props.comentIsLoading) {
     return <Loading />;
