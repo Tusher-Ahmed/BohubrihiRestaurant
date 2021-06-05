@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bohubrihiRestaurant/static/css/main.9ff89987.chunk.css",
+    "main.js": "/bohubrihiRestaurant/static/js/main.d3e26a92.chunk.js",
+    "main.js.map": "/bohubrihiRestaurant/static/js/main.d3e26a92.chunk.js.map",
+    "runtime-main.js": "/bohubrihiRestaurant/static/js/runtime-main.2f50d3de.js",
+    "runtime-main.js.map": "/bohubrihiRestaurant/static/js/runtime-main.2f50d3de.js.map",
+    "static/css/2.e7a11427.chunk.css": "/bohubrihiRestaurant/static/css/2.e7a11427.chunk.css",
+    "static/js/2.cc884cf8.chunk.js": "/bohubrihiRestaurant/static/js/2.cc884cf8.chunk.js",
+    "static/js/2.cc884cf8.chunk.js.map": "/bohubrihiRestaurant/static/js/2.cc884cf8.chunk.js.map",
+    "static/js/3.7ef15169.chunk.js": "/bohubrihiRestaurant/static/js/3.7ef15169.chunk.js",
+    "static/js/3.7ef15169.chunk.js.map": "/bohubrihiRestaurant/static/js/3.7ef15169.chunk.js.map",
+    "index.html": "/bohubrihiRestaurant/index.html",
+    "static/css/2.e7a11427.chunk.css.map": "/bohubrihiRestaurant/static/css/2.e7a11427.chunk.css.map",
+    "static/css/main.9ff89987.chunk.css.map": "/bohubrihiRestaurant/static/css/main.9ff89987.chunk.css.map",
+    "static/js/2.cc884cf8.chunk.js.LICENSE.txt": "/bohubrihiRestaurant/static/js/2.cc884cf8.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/bohubrihiRestaurant/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f50d3de.js",
+    "static/css/2.e7a11427.chunk.css",
+    "static/js/2.cc884cf8.chunk.js",
+    "static/css/main.9ff89987.chunk.css",
+    "static/js/main.d3e26a92.chunk.js"
+  ]
+}
